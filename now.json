@@ -1,14 +1,6 @@
 {
     "version": 2,
     "name": "waaf-nuxt",
-    "dependencies": {
-      "nuxt": "latest"
-    },
-    "scripts": {
-      "dev": "nuxt",
-      "build": "nuxt build",
-      "start": "nuxt start"
-    },
     "builds": [
         { "src": "package.json", "use": "@now/static-build" }
     ]

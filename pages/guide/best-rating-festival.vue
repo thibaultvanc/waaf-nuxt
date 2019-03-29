@@ -11,7 +11,7 @@
       style="box-shadow:  0 0 1em grey"
     >
       <h2 class="mb-2 mt-10">
-        1.
+        1. Nos valeurs
       </h2>
       <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis et nibh
